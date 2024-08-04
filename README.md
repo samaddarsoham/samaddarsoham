@@ -5,8 +5,7 @@
 </h1>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0111.gif" width="1000" height="2" />
 <h1 align="center">Hi 👋, I'm Soham Samaddar</h1>
-<h3 align="center">An aspirant of Full-Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJnOW1hNHJyNTdrb292eDZ4a2I5aGc1c3dzZGx6N2cwa2d3Y2F0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp">
+<h3 align="center">An aspirant of Full-Stack Web Developer <img align="centre" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDJnOW1hNHJyNTdrb292eDZ4a2I5aGc1c3dzZGx6N2cwa2d3Y2F0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.webp"></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samaddarsoham&label=Profile%20views&color=0e75b6&style=flat" alt="samaddarsoham" /> </p>
 
