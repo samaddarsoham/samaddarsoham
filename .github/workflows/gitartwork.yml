@@ -15,4 +15,4 @@
             user_name: samaddarsoham
             # Text on contribution graph 
             text: SOHAM
-       - uses: jasineri/simple-push-action@v1
+       - uses: samaddarsoham/simple-push-action@v1
